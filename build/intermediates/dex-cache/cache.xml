@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\classes-d9d272a64219d726eca12f48a06da5c693285392.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\classes-1c0bba76d65767c786ff371c26793e352c58300d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\classes-e1a91cf0ddf2d2f72acf94db85ca5eaf07af91a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\classes-f43225e84720de6e9ece1cf8ebf1b21737a524d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\classes-60005ad7cd9742fc53fb28f2791b417dc2969b0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9e53b9ef8c1a2314df33ec36a2f2374664653bf0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\3.1.36\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="7421dcb3ed9db47a59ec618e2398f0df65c2d480">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\classes-cfe6bb1041dcbc287f0b0f562587091bd8a7308d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Kumar\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\library-1.0.15-339e734a013c196a91eb47891f5ba157949f9b4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Kumar\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Deepak Kumar\AndroidStudioProjects\MyApp\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-088465450604191e19e0ae66d712ad34c291eb43.jar" />
+    </item>
+
+</items>
